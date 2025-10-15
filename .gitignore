@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+*$py.class
+temp/uploads/
+temp/results/
+temp/debug/
